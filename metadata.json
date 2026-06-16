@@ -1,0 +1,6 @@
+{
+  "name": "5 Star Plumbing & Heating",
+  "description": "Professional Plumbing Services in Cardiff and South Wales. Over 10 years experience specializing in bathroom installations, repairs, and general plumbing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
